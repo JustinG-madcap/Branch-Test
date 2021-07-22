@@ -14,6 +14,7 @@ body
 {
 	color: var(--Dark);
 	font-family: Arial, Avenir, Myriad;
+	background: red;
 }
 
 /* Content */
@@ -555,3 +556,4 @@ p.footer-sub
 		text-decoration: none;
 	}
 }
+
